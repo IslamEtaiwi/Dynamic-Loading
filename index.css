@@ -1,0 +1,147 @@
+*{
+      margin: 0;
+      padding: 0;
+      font-family: 'Baloo Chettan 2',cursive;
+      padding-top: 0;
+
+  }
+  .head_
+  {
+    text-align: center;
+
+    font-size: 75%;
+
+ }
+
+  .box{
+      display: flex;
+      font-size: 75%;
+      padding:10% 0 0 5%;
+
+}
+
+.a
+{
+  width: 320px;
+  padding:0px 4px 16px 1px;
+    border: 1px solid black;
+    border-top:  3px;
+    margin-right: 20px;
+    background: gray;
+    border-top:  1px solid black;
+    font-size: 15px;
+}
+
+.b
+{
+  width: 320px;
+  padding:0px 6px 15px 1px;
+    border: 1px solid black;
+    margin-left: 20px;
+    background: gray;
+    border-top:  1px solid black;
+    font-size: 15px;
+    margin-right: 20px;
+
+}
+#v
+{
+  padding:2px 6px 2px 10px;
+  border: 1px solid white;
+  background-color: black;
+cursor: grab;
+  font-size: 15px;
+color:Brown;
+}
+#demoo
+{
+  border: 3px solid Brown;
+  border-bottom: gray;
+border-top: gray;
+text-align: center;
+color: white;
+}
+#h
+{  border: 1px solid white;
+  margin-left: 13px;
+
+  background-color: black;
+cursor: grabbing;
+  font-size: 15px;
+  padding:2px 6px 2px 10px;
+color: Khaki;
+}
+#k
+{
+  border: 3px solid Khaki;
+  border-bottom: gray;
+border-top: gray;
+text-align: center;
+color: white;
+}
+#y
+{
+  border: 1px solid white;
+
+  background-color:black;
+  cursor: pointer;
+  font-size: 15px;
+  padding:2px 6px 2px 10px;
+color: IndianRed;
+
+}
+#demo
+{
+  border: 3px solid IndianRed;
+  border-bottom: gray;
+border-top: gray;
+text-align: center;
+color: white;
+}
+.c
+{
+  width: 320px;
+  padding:0px 7px 11px 2px;
+    border: 1px solid black;
+    margin-left: 20px;
+    background: gray;
+    border-top:  1px solid black;
+    font-size: 15px;
+
+}
+.a h2
+{
+  text-align: center;
+  margin-left: 227px;
+  width: 75px;
+  padding:2px 11px 2px 10px;
+  border: 1px solid black;
+background-color:  IndianRed;
+border-top: 0;
+
+}
+.b h2
+{
+  text-align: center;
+  margin-left: 247px;
+  width: 75px;
+  padding:2px 2px 3px 1px;
+  border: 1px solid black;
+background-color:  Brown;
+color: white;
+border-top: 0;
+}
+.c h2
+{
+  text-align: center;
+  margin-left: 231px;
+  width: 75px;
+  padding:2px 15px 3px 5px;
+    border:1px solid black ;
+    border-top: 0;
+background-color:  Khaki;
+}
+p
+{
+  margin-top: 0.5rem;
+}
